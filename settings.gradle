@@ -1,0 +1,3 @@
+rootProject.name='FragmentScenarioDFM'
+include ':app'
+include ':dynamicfeature'

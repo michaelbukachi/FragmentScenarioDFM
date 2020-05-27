@@ -1,0 +1,1 @@
+Demo code for reproducing `AAPT: error: resource style/FragmentScenarioEmptyFragmentActivityTheme` error
